@@ -16,6 +16,15 @@
 \usepackage{accents}						% Necessary for doublehat
 \usepackage{pgfplots}
 \usepackage{fancyhdr}						% Necessary for header/footer settings
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
 
 % Header / Footer settings
 \pagestyle{fancy}
@@ -229,25 +238,9 @@
 \begin{document}
 
 \begin{titlepage}
-    \begin{center}
-		\vspace*{1cm}
-		
-		\Huge
-        \textbf{Analysis I}
-        
-		\vspace{0.5cm}
-		\Large
-        Cheat Sheet $\cdot$ v1.0.1
-        
-        \vfill
-        
-        Flavio Schneider
-        
-		\vspace{0.8cm}
-		
-        D-INFK\\
-        ETH Zürich       
-    \end{center}
+\begin{multicols}{2}
+\tableofcontents
+\end{multicols}
 \end{titlepage}
 
 \begin{multicols}{4}
