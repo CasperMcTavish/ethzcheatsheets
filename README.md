@@ -41,3 +41,13 @@ Content:
 * Other  
 
 _Not all material in the cheat sheets is covered in the respective classes, some of it is just a useful addition._
+
+
+Original Repo:
+https://github.com/flavioschneider/ethzcheatsheets
+
+By Flavio Schneider
+
+Only alteration is adding clickable contents to the Analysis component, to improve ease of use on PC
+
+
