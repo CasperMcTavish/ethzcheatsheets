@@ -48,6 +48,7 @@ https://github.com/flavioschneider/ethzcheatsheets
 
 By Flavio Schneider
 
-Only alteration is adding clickable contents to the Analysis component, to improve ease of use on PC
+Only alteration is adding clickable contents to the Analysis component, to improve ease of use on PC.
+The above mentioned pdf is CHEATSHEET MAIN.pdf
 
 
